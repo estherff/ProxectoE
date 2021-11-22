@@ -3,8 +3,7 @@
 
 <head>
  <meta charset="utf-8">
- <title>Primer ejercicio de posición. Le pongo una nueva línea</title>
-Anda que hacer esto para estropearlo
+ <title>Primer ejercicio de posición. Nueva línea</title>
  <style>
   /*Para los div de padre*/
   #padre div {
